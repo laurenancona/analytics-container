@@ -4,3 +4,5 @@
 /bower_components/
 /node_modules/
 client_secrets.json
+
+auth.py
