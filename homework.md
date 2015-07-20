@@ -30,8 +30,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 _[Google Documentation](https://support.google.com/tagmanager/answer/2574370?hl=en)_
 
 ## 2. Google Analytics
-- Create a **TWO** new Google Analytics Properties:
-	- Name the 1st: **yourcity.gov Reporting**
+- Create a __TWO__ new Google Analytics Properties:
+	- Name the 1st: __yourcity.gov Reporting__
 		- Rename the default **View** "All Web Site Data" to **yourcity.gov Reporting**
 		- Create a 2nd View in that Property, and name it **yourcity.gov No Filters**
 	- Name the 2nd Property: **yourcity.gov Testing**
