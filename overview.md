@@ -82,7 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ## Import GTM Configuration 
 - [Container Assistant](https://gtm.cityanalytics.org/)
 - adds Google Analytics "tag"
-- adds custom [dimensions](https://support.google.com/analytics/answer/1033861?hl=en
+- adds custom [dimensions](https://support.google.com/analytics/answer/1033861?hl=en)
 - adds custom events
 	
 
