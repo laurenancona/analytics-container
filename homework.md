@@ -1,7 +1,7 @@
 _In preparation for Unified Analytics presentation, we need two things (should take ~10 minutes total):_
 
 ## 1. Create Tag Manager Account
-- [Create a Google Tag Manager Account](https://support.google.com/tagmanager/answer/2574370?hl=en)
+- Create a Google Tag Manager Account:
 
 _You will need a Google account; for convenience use the same email used to log in to Google Analytics._
 
