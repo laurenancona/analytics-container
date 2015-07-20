@@ -1,8 +1,6 @@
-_In preparation for Unified Analytics presentation, we need two things (should take ~10 minutes total):_
+_In preparation for the Unified Analytics presentation, we need two things (should take ~10 minutes total):_
 
-## 1. Google Tag Manager
-- Create a Google Tag Manager Account:
-
+## 1. Create a Google Tag Manager Account
 _You will need a Google account; for convenience use the same email used to log in to Google Analytics._
 
 ![](https://raw.githubusercontent.com/laurenancona/unified-analytics/master/images/1-signup-screen.png)
@@ -14,7 +12,7 @@ _You will need a Google account; for convenience use the same email used to log 
 The snippet of code to embed on every page will be displayed next. You can always retrieve this from the control panel, but copy and save this for later.
 
 _example snippet:_
-```
+```javascript
 <!-- Google Tag Manager [example.gov] -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WL4TR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -29,8 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 - You'll be prompted to "create a tag". _**Ignore this for now.**_
 - More reading: _[Google Documentation](https://support.google.com/tagmanager/answer/2574370?hl=en)_
 
-## 2. Google Analytics
-- Create a __TWO__ new Google Analytics Properties:
+## 2. Create __TWO__ new Google Analytics Properties:
 	- Name the 1st: __yourcity.gov Reporting__
 		- Rename the default **View** "All Web Site Data" to **yourcity.gov Reporting**
 		- Create a 2nd View in that Property, and name it **yourcity.gov No Filters**
