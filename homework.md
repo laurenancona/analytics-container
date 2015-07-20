@@ -32,13 +32,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	![](https://raw.githubusercontent.com/laurenancona/analytics-container/gh-pages/img/createproperty.gif)
 
+
 - Rename the default **View** "All Web Site Data" to **`yourcity.gov Reporting`**
 
 	![](https://raw.githubusercontent.com/laurenancona/analytics-container/gh-pages/img/renameview.gif)
 
+
 - Create a **2nd View** in that Property by clicking `copy`, and name it **`yourcity.gov No Filters`**
 
 	![](https://raw.githubusercontent.com/laurenancona/analytics-container/gh-pages/img/copyview.gif)
+	
 
 - Name the 2nd Property: **`yourcity.gov Testing`**
 - Rename the default **View** from "All Web Site Data" to **`yourcity.gov Testing`**
