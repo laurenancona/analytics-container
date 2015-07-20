@@ -30,9 +30,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ## 2. Create __TWO__ new Google Analytics Properties:
 
-	- Name the 1st: __yourcity.gov Reporting__
-		- Rename the default **View** "All Web Site Data" to **yourcity.gov Reporting**
-		- Create a 2nd View in that Property, and name it **yourcity.gov No Filters**
-	- Name the 2nd Property: **yourcity.gov Testing**
-		- Rename the default **View** from "All Web Site Data" to **yourcity.gov Testing**
-	
+- Name the 1st: __yourcity.gov Reporting__
+	- Rename the default **View** "All Web Site Data" to **yourcity.gov Reporting**
+	- Create a 2nd View in that Property, and name it **yourcity.gov No Filters**
+- Name the 2nd Property: **yourcity.gov Testing**
+	- Rename the default **View** from "All Web Site Data" to **yourcity.gov Testing**
