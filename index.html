@@ -15,6 +15,7 @@
     <script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css">
     <script src="https://apis.google.com/js/client.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://apis.google.com/js/platform.js" async defer></script>
@@ -24,7 +25,7 @@
     <style>
         main {margin-left: 150px;margin-top:20px;}
         .nob {list-style-type: none}
-        p {color: #222}
+        body {color: #686868; }
     </style>
     <!-- Uses a header that scrolls with the text, rather than staying
   locked at the top -->
@@ -37,7 +38,7 @@
           <div class="mdl-layout-spacer"></div>
           <!-- Navigation -->
           <nav class="mdl-navigation">
-<!--             <a class="mdl-navigation__link" href="">Link</a> -->
+            <a class="mdl-navigation__link" href="https://analyticsacademy.withgoogle.com/course05/preview">GTM Fundamentals</a>
             <div><button class="mdl-button mdl-js-button g-signin2" data-onsuccess="onSignIn" data-label=></button></div>
             <div><button class="mdl-button mdl-js-button  mdl-button--raised mdl-button--accent" href="#" onclick="signOut();">Sign out</a></button></div>
 
@@ -54,10 +55,14 @@
       <!-- MAIN CONTENT -->
       <main class="mdl-layout__content">
         <div class="page-content">
-            <h3>Customize Container</h3>
-            <p>Please create a <a href="http://www.google.com/tagmanager/" target="blank">Google Tag Manager Account</a> and log in using your Google Account to begin.</p>
+            <h3>Customize Container Settings</h3>
+            <p> and log in using your Google Account to begin.</p>
 
-            <form action="" method="get">
+
+                <button class="mdl-button mdl-js-button mdl-button--mini-fab mdl-button--fab mdl-button--colored">
+                  <i class="material-icons">chevron_right</i>
+                </button>   Create a <a href="http://www.google.com/tagmanager/" target="blank">Google Tag Manager Account</a>
+              <form action="" method="get"> 
                 <h4>Your Google Analytics Profile ID</h4>
                 <div class="mdl-textfield mdl-js-textfield textfield-profileId size=25">
                     <input class="mdl-textfield__input" type="text" id="profileId" />
@@ -71,7 +76,7 @@
                 <h4>Secondary Domain(s)</h4>                
                 <div class="mdl-textfield mdl-js-textfield textfield-secondaryDomain">
                     <input class="mdl-textfield__input" type="text" id="secondaryDomain" />
-                    <label class="mdl-textfield__label" for="sample1">example.com</label>   
+                    <label class="mdl-textfield__label" for="sample1">randominitiative.com</label>   
                 </div>
                 <div>
                     <button id="containerSubmit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-js-ripple-effect">Submit</button>
