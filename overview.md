@@ -29,7 +29,7 @@
 ## Preparation
 
 ### What *should* you be tracking?
-	- Crawl primary .gov domain
+- Crawl primary .gov domain
 		- working on OSS solution for this
 		- Screaming Frog SEO Spider
 			- GUI, < 500 pages free
@@ -37,10 +37,10 @@
 		- Google is your friend
 
 ### What *are* you tracking?
-	- any current analytics properties?
-	- any other tracking tools (Adobe _formerly Omniture_, Open Analytics, etc)
-	- compare with 1st list
-		- [Example](https://pulse.cio.gov/analytics/domains/)
+- any current analytics properties?
+- any other tracking tools (Adobe _formerly Omniture_, Open Analytics, etc)
+- compare with 1st list
+	- [Example](https://pulse.cio.gov/analytics/domains/)
 
 Note: Link to properties working sheet 
 
