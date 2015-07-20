@@ -9,9 +9,9 @@ _You will need a Google account; for convenience use the same email used to log 
 - Enter **primary domain** to be measured, e.g. `example.gov`
 - Agree to **Google Tag Manager Use Policy**
 
-The snippet of code to embed on every page will be displayed next. You can always retrieve this from the control panel, but copy and save this for later.
+The snippet of code to embed on every page will be displayed next. You can always retrieve this from the control panel, but copy and save this for later. _[(We keep ours in a gist on Github)](https://gist.github.com/laurenancona/f65dac64e66eedce1115)_
 
-- You'll be prompted to "create a tag". _**Ignore this for now.**_
+- You'll be prompted to "create a tag" - _**Ignore this for now.**_
 
 _example snippet:_
 ```javascript
@@ -26,8 +26,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ```
 
-- More reading: _[Google Documentation](https://support.google.com/tagmanager/answer/2574370?hl=en)_
-
 ## 2. Create __TWO__ new Google Analytics Properties:
 
 - Name the 1st: __yourcity.gov Reporting__
@@ -35,3 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	- Create a **2nd View** in that Property, and name it **`yourcity.gov No Filters`**
 - Name the 2nd Property: **`yourcity.gov Testing`**
 	- Rename the default **View** from "All Web Site Data" to **`yourcity.gov Testing`**
+
+---
+
+#### More reading: 
+- [Google Tag Manager Documentation](https://support.google.com/tagmanager/answer/2574370?hl=en)
