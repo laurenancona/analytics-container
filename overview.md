@@ -27,6 +27,7 @@
 		- custom Javascript (user research tools)
 
 ## Preparation
+
 ### What *should* you be tracking?
 	- Crawl primary .gov domain
 		- working on OSS solution for this
@@ -35,7 +36,6 @@
 	- List all non .gov
 		- Google is your friend
 
-## Preparation
 ### What *are* you tracking?
 	- any current analytics properties?
 	- any other tracking tools (Adobe _formerly Omniture_, Open Analytics, etc)
@@ -44,7 +44,7 @@
 
 Note: Link to properties working sheet 
 
-<========== HOMEWORK:==========>
+# HOMEWORK:
 
 ## Deploy Tag Manager
 - [Create a Google Tag Manager Account](https://support.google.com/tagmanager/answer/2574370?hl=en)
@@ -75,12 +75,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		- Example.gov Testing
 		- Example.gov No Filters
 
-<========= TOGETHER =========>
+# TOGETHER:
 
 ## Import GTM Configuration 
 - [Container Assistant](https://gtm.cityanalytics.org/)
 - adds Google Analytics "tag"
-- adds custom [dimensions](https://support.google.com/analytics/answer/1033861?hl=en:
+- adds custom [dimensions](https://support.google.com/analytics/answer/1033861?hl=en
+- adds custom events
 	
 
 ## What is in this thing?
