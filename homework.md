@@ -13,6 +13,7 @@ _You will need a Google account; for convenience use the same email used to log 
 
 The snippet of code to embed on every page will be displayed next. You can always retrieve this from the control panel, but copy and save this for later.
 
+_example snippet:_
 ```
 <!-- Google Tag Manager [example.gov] -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WL4TR"
@@ -26,7 +27,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ```
 
 - You'll be prompted to "create a tag". _**Ignore this for now.**_
-
 - More reading: _[Google Documentation](https://support.google.com/tagmanager/answer/2574370?hl=en)_
 
 ## 2. Google Analytics
