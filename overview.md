@@ -14,7 +14,11 @@
 
 ## Google Tag Manager
 - a "container" or placeholder
-- UI for managing
+- UI for management
+- [Google Analytics Academy Course](https://analyticsacademy.withgoogle.com/course05/preview)
+	- cert until 7/24
+
+## GTM Uses
 - multitude of "tag" types
 	- mostly small JavaScript...scripts:
 		- web analytics (vendor independence)
@@ -45,7 +49,7 @@ Note: Link to properties working sheet
 ## Deploy Tag Manager
 - [Create a Google Tag Manager Account](https://support.google.com/tagmanager/answer/2574370?hl=en)
 - [Deploy "empty" Tag Manager container](Link)
-	- This snippet will go in every (page|template\site) 
+	- This snippet will go in every (page|template|site) 
 	- Immediately after `<body>`:
 
 ```<!-- Google Tag Manager [example.gov] -->
@@ -60,8 +64,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 ## Set up Google Analytics
-- How many have legacy GA tracking?
-- Migrate to GTM?
+- Do you have legacy GA tracking?
+- Migrate to legacy GA to GTM?
+	- Remove GA snippet at same time
+
+## Google Analytics Setup
 - Recommendation: new/clean GA Profile and
 	- 3 Views:
 		- Example.gov Reporting
@@ -72,3 +79,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ## Import GTM Configuration 
 - [Container Assistant](https://gtm.cityanalytics.org/)
+- adds Google Analytics "tag"
+- adds custom [dimensions](https://support.google.com/analytics/answer/1033861?hl=en:
+	
+
+## What is in this thing?
+- [adds addt'l data to GA](http://www.simoahava.com/analytics/improve-data-collection-with-four-custom-dimensions/)
+- 
