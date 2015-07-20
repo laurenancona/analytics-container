@@ -88,3 +88,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ## What is in this thing?
 - [adds addt'l data to GA](http://www.simoahava.com/analytics/improve-data-collection-with-four-custom-dimensions/)
+- tracks document downloads (like PDFs)
