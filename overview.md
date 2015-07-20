@@ -16,7 +16,7 @@
 - a "container" or placeholder
 - UI for management
 - [Google Analytics Academy Course](https://analyticsacademy.withgoogle.com/course05/preview)
-	- cert until 7/24
+	- certificate until 7/24
 
 ## GTM Uses
 - multitude of "tag" types
@@ -30,11 +30,11 @@
 
 ### What *should* you be tracking?
 - Crawl primary .gov domain
-		- working on OSS solution for this
-		- Screaming Frog SEO Spider
-			- GUI, < 500 pages free
-	- List all non .gov
-		- Google is your friend
+	- working on OSS solution for this
+	- Screaming Frog SEO Spider
+		- GUI, < 500 pages free
+- List all non .gov
+	- Google is your friend
 
 ### What *are* you tracking?
 - any current analytics properties?
