@@ -28,7 +28,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ## 2. Create __TWO__ new Google Analytics Properties:
 
-- Name the 1st: __yourcity.gov Reporting__
+- Name the 1st: __`yourcity.gov Reporting`__
 
 	![](https://raw.githubusercontent.com/laurenancona/analytics-container/gh-pages/img/createproperty.gif)
 
