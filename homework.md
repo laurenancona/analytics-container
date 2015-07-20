@@ -42,6 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 - Name the 2nd Property: **`yourcity.gov Testing`**
 - Rename the default **View** from "All Web Site Data" to **`yourcity.gov Testing`**
+
 	![](https://raw.githubusercontent.com/laurenancona/analytics-container/gh-pages/img/createtesting.gif)
 
 ---
